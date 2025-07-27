@@ -1,0 +1,7 @@
+pymgclient==1.4.0       # Official Memgraph client for Python (low-level)
+gqlalchemy               # High-level Python ORM for Memgraph (recommended)
+pandas                   # For data analysis
+networkx                 # For graph analysis/algorithms
+matplotlib               # For graph/data visualization
+seaborn                  # Statistical data visualization (used in notebook 02)
+jupyter                  # For interactive notebooks (optional, but recommended)
